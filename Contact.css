@@ -1,0 +1,76 @@
+.bg_img {
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 0.5%;
+    padding-bottom: 1%;
+    background-color: black;
+    background-image: url(bg_circle.jpg);
+    background-attachment: fixed;
+}
+
+header {
+    font-family: "Brown Sugar", serif;
+    color: whitesmoke;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    font-family: "Brown Sugar", serif;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 25%;
+}
+
+form {
+    font-family: "Kollektif", sans-serif;
+    color: whitesmoke;
+    width: 25%;
+    margin-top: -10%;
+    padding-bottom: 7%;
+    margin-left: 37%;
+}
+
+.body-text {
+    font-family: "Kollektif", sans-serif;
+    color: whitesmoke;
+    width: 25%;
+    margin-top: -5%;
+    padding-bottom: 13%;
+    margin-left: 37%;
+}
+
+.comment {
+    margin-top: 10%;
+}
+
+.Submit {
+    margin-top: 5%;
+}
+
+.navbar-brand {
+    margin-top: -0.5%;
+    font-size: 35px;
+}
+
+.mr-5 {
+    padding-right: 20px;
+}
+
+.text-body-secondary {
+    margin-right: 15px;
+}
+
+@media (min-width: 826px) {
+    .navbar-toggler {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 420px) {
+    .navbar-toggler {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
