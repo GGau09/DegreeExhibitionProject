@@ -15,27 +15,19 @@ header {
     margin-right: 20px;
 }
 
-h1 {
+h2 {
     font-family: "Brown Sugar", serif;
     color: whitesmoke;
-    margin-top: 22%;
-    margin-left: 1.5%;
-    font-size: 65px;
 }
 
-p {
+h5 {
     font-family: "Kollektif", sans-serif;
     color: whitesmoke;
-    width: 30%;
-    margin-top: -24%;
-    margin-left: 68%;
+    width: 80%;
 }
 
-.img {
-    width: 23%;
-    height: 23%;
-    margin-left: 38%;
-    margin-top: -19%;
+.img-fluid {
+    margin-left: 25%;
 }
 
 .navbar-brand {
